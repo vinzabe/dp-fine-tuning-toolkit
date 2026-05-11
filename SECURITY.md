@@ -78,3 +78,7 @@ This toolkit does **not** protect against:
 - All Python deps pinned via `requirements.txt`
 - `opacus>=1.5` provides the validated cross-check accountant
 - Shared `llm_client.py` vendored (not a third-party package)
+
+## Contact
+
+Responsible disclosure: **g@abejar.net**
